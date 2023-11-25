@@ -1,0 +1,2 @@
+Cust. ID     Cust. Name     Phone Number     Subscription     Period of Time      Total Amount     
+12345        Raihan         01188776655      100 Mbps         Month               200.0            
